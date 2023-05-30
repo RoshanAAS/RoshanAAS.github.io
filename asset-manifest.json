@@ -1,29 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.faa59cde.css",
-    "main.js": "/static/js/main.ced92139.js",
-    "static/js/415.f4356c47.chunk.js": "/static/js/415.f4356c47.chunk.js",
-    "static/js/787.f35f70c9.chunk.js": "/static/js/787.f35f70c9.chunk.js",
-    "static/media/caratlane.png": "/static/media/caratlane.e63319227e4b33779e4b.png",
-    "static/media/gearbest.png": "/static/media/gearbest.639d54504cd89b88135f.png",
-    "static/media/asos.png": "/static/media/asos.75a29060aa0ba9b13e5e.png",
-    "static/media/nykaa-clone.png": "/static/media/nykaa-clone.266a5ab17f6bf41dffe6.png",
-    "static/media/weather.png": "/static/media/weather.709f15aab346f0fd8800.png",
-    "static/media/myhours.png": "/static/media/myhours.b314aaf1ac3a08d571cc.png",
-    "static/media/Resume.pdf": "/static/media/Resume.761df6328f9667109dd6.pdf",
-    "static/media/roshan.jpg": "/static/media/roshan.973f88ff07f0b998cdb8.jpg",
-    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "main.css": "/static/css/main.d1be3cec.css",
+    "main.js": "/static/js/main.e9bf473e.js",
+    "static/js/496.68e4681f.chunk.js": "/static/js/496.68e4681f.chunk.js",
+    "static/media/healthPrime_1.png": "/static/media/healthPrime_1.0bcdd8f3365620f5fd90.png",
+    "static/media/healthPrime_2.png": "/static/media/healthPrime_2.bfc834c1ba2b787dc0fa.png",
+    "static/media/healthPrime_3.png": "/static/media/healthPrime_3.7885c8b60da14ebcfe3d.png",
+    "static/media/new_profile.jpg": "/static/media/new_profile.9937e0d18a6fe4ed8798.jpg",
+    "static/media/healthPrime_5.png": "/static/media/healthPrime_5.eb775c36181d68140dc7.png",
+    "static/media/healthPrime_4.png": "/static/media/healthPrime_4.a454fe0bb85b330428ab.png",
+    "static/media/mongobd_logo.png": "/static/media/mongobd_logo.911d600323e9c405d0db.png",
+    "static/media/react_logo.png": "/static/media/react_logo.f3e576ba08e6be927148.png",
+    "static/media/html_logo.png": "/static/media/html_logo.66d92c286ced98e2d26e.png",
+    "static/media/redux_logo.png": "/static/media/redux_logo.492ed7d54dd2352c5786.png",
+    "static/media/node_logo.png": "/static/media/node_logo.749b8af67e60d6b0dcab.png",
+    "static/media/javascript_logo.png": "/static/media/javascript_logo.b593320c32e34a23f324.png",
+    "static/media/protfolio-icon.png": "/static/media/protfolio-icon.91525cd5a152d883d85a.png",
     "index.html": "/index.html",
-    "main.faa59cde.css.map": "/static/css/main.faa59cde.css.map",
-    "main.ced92139.js.map": "/static/js/main.ced92139.js.map",
-    "415.f4356c47.chunk.js.map": "/static/js/415.f4356c47.chunk.js.map",
-    "787.f35f70c9.chunk.js.map": "/static/js/787.f35f70c9.chunk.js.map"
+    "main.d1be3cec.css.map": "/static/css/main.d1be3cec.css.map",
+    "main.e9bf473e.js.map": "/static/js/main.e9bf473e.js.map",
+    "496.68e4681f.chunk.js.map": "/static/js/496.68e4681f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.faa59cde.css",
-    "static/js/main.ced92139.js"
+    "static/css/main.d1be3cec.css",
+    "static/js/main.e9bf473e.js"
   ]
 }
