@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.d1be3cec.css",
-    "main.js": "/static/js/main.483d2b7c.js",
+    "main.js": "/static/js/main.a7f35557.js",
     "static/js/496.68e4681f.chunk.js": "/static/js/496.68e4681f.chunk.js",
-    "static/media/healthPrime_1.png": "/static/media/healthPrime_1.0bcdd8f3365620f5fd90.png",
-    "static/media/healthPrime_2.png": "/static/media/healthPrime_2.bfc834c1ba2b787dc0fa.png",
-    "static/media/healthPrime_3.png": "/static/media/healthPrime_3.7885c8b60da14ebcfe3d.png",
+    "static/media/busykids_five.png": "/static/media/busykids_five.31e10b04d9eb66fc0dbc.png",
+    "static/media/busykids_one.png": "/static/media/busykids_one.6ad32fa8c57d098261ea.png",
+    "static/media/busykids_two.png": "/static/media/busykids_two.ef936ce1c49f8c9167bb.png",
+    "static/media/busykids_four.png": "/static/media/busykids_four.e125c9fde8a50f07ded6.png",
+    "static/media/busykids_three.png": "/static/media/busykids_three.c4e861ec730160ce8ca6.png",
     "static/media/Roshan-Routh-Resume.pdf": "/static/media/Roshan-Routh-Resume.2a8ed5af280b4bc13203.pdf",
-    "static/media/healthPrime_5.png": "/static/media/healthPrime_5.eb775c36181d68140dc7.png",
-    "static/media/healthPrime_4.png": "/static/media/healthPrime_4.a454fe0bb85b330428ab.png",
     "static/media/roshan1.jpg": "/static/media/roshan1.c02d16468933b6b45ee0.jpg",
     "static/media/mongobd_logo.png": "/static/media/mongobd_logo.911d600323e9c405d0db.png",
     "static/media/react_logo.png": "/static/media/react_logo.f3e576ba08e6be927148.png",
@@ -18,11 +18,11 @@
     "static/media/javascript_logo.png": "/static/media/javascript_logo.b593320c32e34a23f324.png",
     "index.html": "/index.html",
     "main.d1be3cec.css.map": "/static/css/main.d1be3cec.css.map",
-    "main.483d2b7c.js.map": "/static/js/main.483d2b7c.js.map",
+    "main.a7f35557.js.map": "/static/js/main.a7f35557.js.map",
     "496.68e4681f.chunk.js.map": "/static/js/496.68e4681f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1be3cec.css",
-    "static/js/main.483d2b7c.js"
+    "static/js/main.a7f35557.js"
   ]
 }
